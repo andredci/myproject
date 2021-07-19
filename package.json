@@ -1,0 +1,27 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "My own personal boilerplate project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andredci/myproject.git"
+  },
+  "keywords": [
+    "tooling"
+  ],
+  "author": "André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andredci/myproject/issues"
+  },
+  "homepage": "https://github.com/andredci/myproject#readme",
+  "devDependencies": {
+    "gh-pages": "^3.0.0",
+    "live-server": "^1.1.0",
+    "sass": "^1.35.2"
+  }
+}
